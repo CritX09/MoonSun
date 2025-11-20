@@ -1,0 +1,5 @@
+{
+  "name": "Moonlight Sunshine Automator",
+  "description": "Une interface intelligente alimentée par Gemini pour optimiser et automatiser vos sessions de streaming de jeux (Moonlight/Sunshine). Génération de scripts, diagnostics réseau et profils automatiques.",
+  "requestFramePermissions": []
+}
